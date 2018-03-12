@@ -1,0 +1,11 @@
+{
+	"urls" :
+		[
+			{
+				"url" : "http://www.hugolescargot.com",
+				"filter" : "/astatic.ccmbg.com/",
+				"schedule" : "30 * * * * *"
+			}
+		]
+}
+
